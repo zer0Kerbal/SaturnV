@@ -47,3 +47,5 @@ GPLv2
 - [KSPWheel]()                                            - Rover LRV not work,need this add-on.
 - [CommunityResourcePack]()                               - Included in the add-on.
 - [RealPlume]()                                           - Just beautiful.
+
+![Validate AVC .version files](https://github.com/zer0Kerbal/SaturnV/workflows/Validate%20AVC%20.version%20files/badge.svg?style=plastic)
