@@ -1,4 +1,4 @@
-# SaturnV (SV)
+# SaturnV (DSV)
 ## by DECQ
 ![SV Version](https://img.shields.io/github/v/release/zer0Kerbal/SaturnV?include_prereleases?style=plastic)
 ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SaturnV/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License GPLv2](https://img.shields.io/badge/license-GPL-v2-red?style=plastic)  
